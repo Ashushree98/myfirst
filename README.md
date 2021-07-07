@@ -15,10 +15,10 @@
     isSpecial:
     Use: Check for blank PRN from file
     
-### Working 
+### code inspector score
+
+<a href="https://frontend.code-inspector.com/public/user/github/stepin314196">
+   <img src="https://code-inspector.com/public/badge/user/github/stepin314196?style=dark" alt="code inspector badge" />
+</a>
 
 
-    The Header File with name ELECTION.H :-
-
-        Structure CD: 
-        Use: Stores name and vote count
