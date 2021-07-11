@@ -1,3 +1,6 @@
+![CodeInspector](https://frontend.code-inspector.com/home)
+
+
 # Mini Electoral System - Using C Language
 
 - > Allows us to set up an adaptable and reliable democratic framework 
