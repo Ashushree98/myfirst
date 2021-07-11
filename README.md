@@ -6,14 +6,12 @@
 
 ### Functions 
 
-    cdname: 
+    CD: 
     Use: Stores candidate info in structure as well as file
 
-    flcreate:
-    Use: Creates ‘count’ no. of files initiates with ‘0’
+    CD_COUNT:
+    Use: Creates ‘count’ no. of files 
 
-    isSpecial:
-    Use: Check for blank PRN from file
     
 ### code inspector score
 
