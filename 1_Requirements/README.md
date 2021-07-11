@@ -1,7 +1,9 @@
-![CodeInspector](<a href="https://frontend.code-inspector.com/public/user/github/stepin314196">
-   <img src="https://code-inspector.com/public/badge/user/github/stepin314196?style=light" alt="code inspector badge" />
-</a>)
 
+### code inspector score
+
+<a href="https://frontend.code-inspector.com/public/user/github/stepin314196">
+   <img src="https://code-inspector.com/public/badge/user/github/stepin314196?style=dark" alt="code inspector badge" />
+</a>
 
 # Mini Electoral System - Using C Language
 
@@ -20,11 +22,7 @@
     isSpecial:
     Use: Check for blank PRN from file
     
-### code inspector score
 
-<a href="https://frontend.code-inspector.com/public/user/github/stepin314196">
-   <img src="https://code-inspector.com/public/badge/user/github/stepin314196?style=dark" alt="code inspector badge" />
-</a>
 
 #### Cost Features Timeline
 
