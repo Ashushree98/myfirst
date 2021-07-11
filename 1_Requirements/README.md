@@ -1,4 +1,6 @@
-![CodeInspector](https://frontend.code-inspector.com/home)
+![CodeInspector](<a href="https://frontend.code-inspector.com/public/user/github/stepin314196">
+   <img src="https://code-inspector.com/public/badge/user/github/stepin314196?style=light" alt="code inspector badge" />
+</a>)
 
 
 # Mini Electoral System - Using C Language
